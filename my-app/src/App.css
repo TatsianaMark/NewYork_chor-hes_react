@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+.map {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: 0 auto;
+  width: 600px !important;
+  height: 400px !important;
+}
+
+#toggler {
+  left: 5px;
+  top: 5px;
+  font-size: 12px;
+}
+
+#checkbox_block {
+  left: 163px;
+  top: 8px;
+  font-size: 13px;
+  text-shadow: 1px 1px 0 #FFF;
+}
